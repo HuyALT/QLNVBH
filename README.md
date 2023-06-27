@@ -1,3 +1,3 @@
 # QLNVBH
 Quản lý nhân viên
-## Giới thiệu [Docs](./docs/)
+## Giới thiệu [Docs](./QLNVBH/docs/)
